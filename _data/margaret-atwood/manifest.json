@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://BarkasL.github.io/margaret-atwood/margaret-atwood/canvas-1/canvas/t_layer.json",
+            "label": "t_layer"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://BarkasL.github.io/margaret-atwood/margaret-atwood/canvas-1/canvas/S_Layer.json",
             "label": "S_Layer"
           }
